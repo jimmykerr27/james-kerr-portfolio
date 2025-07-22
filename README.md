@@ -30,7 +30,7 @@ npm run dev
 ## Deployment
 
 This site is deployed using GitHub Pages. You can visit the live site at:
-https://YOUR_GITHUB_USERNAME.github.io/james-kerr-portfolio
+https://jimmykerr27.github.io/james-kerr-portfolio
 
 ## Building
 
